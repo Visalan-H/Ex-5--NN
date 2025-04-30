@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME:VISALAN H</H3>
-<H3>ENTER YOUR REGISTER NO:212223240183</H3>
+<H3>NAME:VISALAN H</H3>
+<H3>REGISTER NO:212223240183</H3>
 <H3>EX. NO.5</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
@@ -106,7 +106,3 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 <H3>Result:</H3>
 Thus , a Radial Basis Function Neural Network is implemented to classify XOR data.
-
-
-
-
